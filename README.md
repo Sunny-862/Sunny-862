@@ -1,42 +1,97 @@
-# 👋 Hi there, I'm Sunny Kadam!
+<h1 align="center">Hi, I'm Sunny Kadam</h1>
 
-🚀 **Data Science | Data Analyst | Data Engineer**
+<p align="center">
+  <b>Data Science • Data Analytics • Data Engineering</b>
+</p>
 
-I am a final-year Computer Science student with a strong foundation in data analysis, Python, SQL, and business intelligence tools. I am passionate about building scalable solutions and translating raw data into meaningful business insights.
-
-### 👨‍💻 Professional Summary
-- 🔭 **Current Focus:** Building advanced data pipelines and analytics solutions.
-- 💼 **Confidence Petroleum India Limited:** Analyzed operational and sales data, built MIS reports, and supported decision-making through data-driven analysis.
-- 📊 **Codons Technology Pvt. Ltd.:** Worked with large datasets (800K+ records), performed data preprocessing and visualization, and applied machine learning models.
-- 🌱 **Currently Exploring:** Modern Data Stack tools including **Snowflake**, **dbt**, and **Kafka**.
-
-### 🛠️ Tech Stack & Skills
-
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data & Analytics Tools:**
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-**Libraries & Frameworks:**
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-00A65A?style=for-the-badge&logo=python&logoColor=white)
-
-### 🚀 Featured Projects
-
-* 📈 **[Sales-Data-Pipeline](https://github.com/Sunny-862/Sales-Data-Pipeline)**
-  An end-to-end data pipeline built using AWS S3, Snowflake, dbt, and Power BI.
-* 💰 **[Mutual_Fund_Investment_Assistant](https://github.com/Sunny-862/Mutual_Fund_Investment_Assistant)**
-  A Python-based script designed to aid users in selecting mutual funds based on age and investment amount.
+<p align="center">
+  Final Year Computer Science Engineering Student passionate about building scalable data solutions, analytics pipelines, and business intelligence systems.
+</p>
 
 ---
-📫 **Let's Connect:** [sunnykadam872@gmail.com](mailto:sunnykadam862@gmail.com) | [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+
+## 📌 About Me
+
+I am a final-year Computer Science Engineering student with hands-on experience in *Data Analytics, Data Engineering, and Machine Learning*. I enjoy transforming raw data into meaningful insights through scalable pipelines, cloud technologies, and interactive dashboards.
+
+My interests primarily revolve around:
+
+- Data Analytics & Business Intelligence  
+- Cloud Data Engineering  
+- Real-Time Data Pipelines  
+- Data Visualization & Reporting  
+- Machine Learning Applications  
+
+---
+
+## 💼 Professional Experience
+
+### *Data Analyst Intern — Confidence Petroleum India Limited*
+- Analyzed operational and sales datasets to identify trends and business insights
+- Developed MIS reports and dashboards using Power BI and Excel
+- Performed data cleaning, preprocessing, and feature engineering
+- Supported decision-making through data-driven analysis
+
+### *Data Scientist Intern — Codons Technology Pvt. Ltd.*
+- Worked with datasets containing 800K+ records using Python and SQL
+- Performed data preprocessing, visualization, and exploratory analysis
+- Built machine learning models for forecasting and prediction tasks
+- Developed dashboards and analytical reports for business insights
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Data Engineering & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Sales Data Pipeline & Analytics Dashboard
+End-to-end ELT pipeline built using AWS S3, Snowflake, dbt, SQL, and Power BI for transforming retail sales data into analytics-ready dashboards.
+
+### 📈 Real-Time Financial Data Streaming Pipeline
+Built a real-time streaming architecture using Python, Kafka, Airflow, PostgreSQL, Snowflake, and Power BI for live stock and cryptocurrency market analytics.
+
+### ✈️ Air Traffic Performance & Trend Analysis
+Performed large-scale aviation data analysis using Python, Pandas, Matplotlib, and Seaborn to uncover passenger traffic trends and airport operational insights.
+
+---
+
+## 📚 Currently Exploring
+
+- Modern Data Stack Technologies  
+- Real-Time Streaming Architectures  
+- Advanced Snowflake & dbt Workflows  
+- Cloud-Based Data Engineering Solutions  
+
+---
+
+## 📬 Connect With Me
+
+- *Sunny Kadam*
+- 📧 Email: sunnykadam872@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/sunny-862
+- 🐙 GitHub: github.com/Sunny-862
